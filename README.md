@@ -25,4 +25,4 @@ A web application built using MERN Stack. User can create account and upload the
 ![Img File](https://resumeimages209.s3.us-west-1.amazonaws.com/upload_pg.png)
 
 
-### Deploument link will be back up shortly.
+### !!!Deployment link will be back up shortly!!!
