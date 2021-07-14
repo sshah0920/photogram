@@ -12,16 +12,16 @@ A web application built using MERN Stack. User can create account and upload the
 (8) Use 'Create Post' tab to upload an Image. Enjoy! 
  
 ## Screenshots
-###Login Page:
+### Login Page:
 ![Img File](https://resumeimages209.s3.us-west-1.amazonaws.com/login_pg.png)
 
-###Signup Page:
+### Signup Page:
 ![Img File](https://resumeimages209.s3.us-west-1.amazonaws.com/signup_pg.png)
 
-###Profile Page:
+### Profile Page:
 ![Img File](https://resumeimages209.s3.us-west-1.amazonaws.com/profile_pg.png)
 
-###Upload Page:
+### Upload Page:
 ![Img File](https://resumeimages209.s3.us-west-1.amazonaws.com/upload_pg.png)
 
 
